@@ -16,3 +16,4 @@ Boto's quickstart guide should help, and it also includes some info on getting b
 Step 2: Send your message
 
 At the bare minimum, you can just send a message directly to a single phone number. 
+
